@@ -1,0 +1,53 @@
+**GIT**
+-Control de versiones
+Son aquellas actualizaciónes que se suben y se actualizan en el codigo
+o simplemente se editan cosas que no funcionan, tambien conocidad como
+aquella gestión de diversos cambios presentes sobre los elementos
+
+-Sistema de control de versiones
+Cuenta con las herramientas para poder hacer las modificaciones al código
+y facilitar la administracion de las las distintas versiones del producto
+desarrollado
+
+-Características de git
+Gestión correcta y eficiente de proyectos grandes
+Gestión distribuida
+Agilidad en la gestión de las ramas
+
+-Diseño de git
+Se tuvo en cuenta el rendimiento, seguridad y flexibilidad
+
+-Seguridad
+El repositorio de git está protegido con un algoritmo de has criptográficamente seguro llamado SHA1}
+
+-Flexibilidad
+Soporte para varios tipos de flujos de trabajo de desarrollo no lineal
+Eficiencia en proyectos grandes y pequeños 
+Compatibilidad con muchos sistemas y protocolos existentes
+
+-Flujo de trabajo 
+Esta compuesto por tres arboles
+Working Directory: que contiene los archivos en la maquina local
+Staging Area: que actúa como una zona intermedia
+Repository que apunta al úlitmo commit realizado
+
+-Ramas
+Son utilizadas para desarrollar funcionalidades aisladas
+
+-Lista de comandos basicos 
+git add
+git clone/ruta/del/repositorio
+git checkout -b <rama>
+git status
+
+-Readme
+Es un archivo plano en el cual lo vamos a utilizar para comentarles a otras personas por qué nuestro proyecto es útil, como lo puede hacer y pueden usar 
+
+Qué hace el proyecto
+Por qué el proyecto es útil
+Como pueden comenzar los usuarios con el proyecto
+Dónde pueden recibir ayuda los usuarios con tu proyecto
+Quién mantiene y contribuye con el proyecto
+
+-Gitignore
+Utilizamos para especificar los archivos que intencionalmente Git deberia ingnorar 
